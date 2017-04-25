@@ -1,3 +1,4 @@
+# Required Package installations
 # install.packages("stringr")
 # install.packages("lubridate")
 # install ggplot
@@ -10,6 +11,7 @@
 # install.packages("hexbinplot")
 # install.packages("hexbin")
 
+#Using the required libraries post the installation
 library(ggplot2)
 library(tidyr)
 library("ggplot2")
